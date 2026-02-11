@@ -48,7 +48,7 @@ I support organizations across **UAE, Singapore, UK, USA, Canada, Germany, Nethe
 
 | Project | Description | Status | Link |
 |---------|-------------|--------|------|
-| **SOC Threat Detection & Incident Response Lab** | Multi-VM SOC lab using **Wazuh SIEM**, Windows endpoints, and Kali Linux. Simulated attacks (brute-force, malware, network scans), collected logs, configured alerts, mapped events to **MITRE ATT&CK**, and produced **executive-level incident reports**. | ✅ In Progress (1 week) | [Repo Link](#) |
+| **SOC Threat Detection & Incident Response Lab** | Multi-VM SOC lab using **Wazuh SIEM**, Windows endpoints, and Kali Linux. Simulated attacks (brute-force, malware, network scans), collected logs, configured alerts, mapped events to **MITRE ATT&CK**, and produced **executive-level incident reports**. | ✅ In Progress (1 week) | [https://github.com/petrasgkulyumba/CybersecurityOperationsPortfolio/tree/main/SOC_Threat_Detection_IR_Lab(#) |
 | **Cloud Security Defense Lab** | Deployed **AWS, Azure, GCP test environments** simulating enterprise cloud security controls. Configured IAM policies, logging, monitoring, and defensive architectures. Assessed compliance with **ISO 27001, NIST, GDPR, UAE NESA, CSA, PDPA**. | 🚧 Coming Soon | [Repo Link](#) |
 | **Red & Blue Team Exercise** | Offensive & defensive scenarios with Kali Linux, Metasploit, and Wazuh monitoring. Documented attack lifecycle, threat detection, and response strategies. | 🚧 Coming Soon | [Repo Link](#) |
 | **GRC Dashboard / Risk Assessment Prototype** | Developed a **risk & compliance dashboard** aligned with **ISO 27001, NIST, GDPR, UAE NESA, CSA, PDPA**. Includes risk scoring, mitigation strategies, and executive reporting. | 🚧 Coming Soon | [Repo Link](#) |
