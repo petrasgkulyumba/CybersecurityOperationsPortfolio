@@ -98,21 +98,18 @@
 
 ---
 
-### Let's Connect Where You Are
+## 🤝 Let's Connect
 
-| Your Location | My Availability |
-|---------------|-----------------|
-| 🇦🇪 **UAE** | I'm here. Coffee or virtual meeting — I'm available. |
-| 🇲🇿 **Mozambique** | Deep connections in Maputo, Tete, and beyond. Ready to support your security journey. |
-| 🌍 **Anywhere Else** | One flight, one video call, or one message away. |
+| Connect With Me | How We'll Make It Happen |
+|-----------------|--------------------------|
+| **Virtual Meeting** | Schedule a call. I respect your time — 30 minutes is all I need to understand your security needs. |
+| **Email Exchange** | Send your requirements. I respond within 24 hours with clarity and solutions. |
+| **LinkedIn** | Connect with me. Let's build a professional relationship that matters. |
 
-📧 **Reach me:** [petras.g.kulyumba@gmail.com](mailto:petras.g.kulyumba@gmail.com)  
-💼 **Let's talk:** [linkedin.com/in/petras-kulyumba](https://www.linkedin.com/in/petras-kulyumba/)
+📧 **Email:** [petras.g.kulyumba@gmail.com](mailto:petras.g.kulyumba@gmail.com)  
+💼 **LinkedIn:** [linkedin.com/in/petras-kulyumba](https://www.linkedin.com/in/petras-kulyumba/)
 
----
-
-*"Security is not about building walls. It's about building trust — across borders, across industries, across cultures."*  
-— **Petras Kulyumba**
+> *"Whether across a table or across a screen, I bring the same commitment: understanding your challenge, delivering real solutions, and building trust that lasts."*
 
 ---
 
