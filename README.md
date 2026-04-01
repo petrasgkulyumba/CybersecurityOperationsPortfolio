@@ -107,14 +107,17 @@ An **interactive web platform** built with **Lovable** demonstrating a complete 
 
 ## 🌍 My Global Footprint
 
+*Building bridges across continents, one secure connection at a time.*
+
 | Region | Countries | My Connection |
 |--------|-----------|---------------|
-| 🇦🇪 **Middle East** | UAE, Saudi Arabia, Qatar, Kuwait, Oman, Bahrain | My home base. I understand the region's security challenges and vision. |
-| 🇬🇧 **Europe** | UK, Germany, Netherlands, Switzerland, France, Spain, Italy, Sweden, Denmark, Norway | Deep knowledge of GDPR and EU cybersecurity frameworks. |
-| 🇺🇸 **North America** | USA, Canada | Platform built with NIST, CMMC, and SOC 2 requirements. |
-| 🇸🇬 **Asia Pacific** | Singapore, Australia, Japan, South Korea, Malaysia, Indonesia, Thailand | Solutions that respect data sovereignty across dynamic markets. |
-| 🇿🇦 **Africa** | South Africa, Kenya, Nigeria, Egypt, Morocco, Ghana, Tanzania, Rwanda, Mozambique | This is where my roots run deep. I bring global standards with local understanding to help African organizations build world-class security capabilities. |
-| 🌍 **Global** | Anywhere | Remote-ready. One message away. |
+| 🇦🇪 **Middle East** | UAE, Saudi Arabia, Qatar, Kuwait, Oman, Bahrain | My current home base. I understand the region's unique security challenges, regulatory landscape (NESA, SAMA, QCB), and the ambitious vision for a secure digital future. I've worked closely with organizations navigating Dubai's Cybersecurity Strategy and Saudi Vision 2030 security requirements. |
+| 🇬🇧 **Europe** | United Kingdom, Germany, Netherlands, Switzerland, France, Belgium, Spain, Italy, Sweden, Denmark, Norway, Finland, Ireland, Portugal, Austria | I've studied European compliance frameworks extensively. My work aligns with GDPR, EU NIS2 Directive, DORA, and national cybersecurity strategies. I understand the balance between innovation and data protection that defines European security thinking. |
+| 🇺🇸 **North America** | United States, Canada, Mexico | I follow US cybersecurity standards closely. My platform is built with NIST CSF, CMMC 2.0, HIPAA, and SOC 2 requirements in mind. I understand the US federal contracting landscape, FedRAMP expectations, and the unique security challenges of North American enterprises. |
+| 🇸🇬 **Asia Pacific** | Singapore, Australia, Japan, South Korea, China, Hong Kong, Malaysia, Indonesia, Thailand, Vietnam, Philippines, Taiwan | I'm fascinated by Asia's rapid digital transformation. I design solutions that respect data sovereignty (PDPA, CCPA equivalents, China's Cybersecurity Law) while enabling innovation across this dynamic region. Singapore's Smart Nation initiative and Australia's ASD Essential Eight are frameworks I reference regularly. |
+| 🇿🇦 **Africa** | South Africa, Kenya, Nigeria, Egypt, Morocco, Ghana, Tanzania, Rwanda, Mozambique, Botswana, Namibia, Zambia, Zimbabwe, Uganda, Senegal, Ivory Coast | This is where my roots run deep. I'm committed to helping African organizations build world-class security capabilities that compete globally. I understand the unique challenges — from infrastructure constraints to emerging regulatory frameworks like South Africa's POPIA, Kenya's Data Protection Act, and Nigeria's NDPR. I bring global standards with local context to support Africa's digital transformation. |
+| 🌎 **South America** | Brazil, Argentina, Chile, Colombia, Peru, Uruguay, Ecuador, Venezuela | I'm expanding my understanding of Latin American markets. The region's growing tech ecosystem and evolving regulatory landscape (Brazil's LGPD, Argentina's PDP, Chile's data protection framework) inspire me to create adaptable security solutions. I recognize the opportunities and challenges in this dynamic region. |
+| 🌐 **Global Remote** | Anywhere in the World | I work across time zones seamlessly. My mindset is global, my approach is local, and my commitment is universal: protecting what matters most. I'm equipped to support organizations anywhere with the same level of dedication, responsiveness, and cultural intelligence as if I were in the same room. |
 
 > *"Security is not about building walls. It's about building trust — across borders, across industries, across cultures."*
 
